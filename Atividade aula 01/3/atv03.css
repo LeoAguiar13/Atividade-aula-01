@@ -1,0 +1,27 @@
+.box {
+    background-color: #a6ff00; 
+    width: 700px;
+    height: 700px;
+}
+.box .box2{
+    background-color: #fffb00;
+    width: 50%;
+    height: 50%;
+}
+.box .box2 .paragrafo{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+.box3 {
+    width: 50%;
+    height: 60vh;
+    background-color: rgb(111, 1, 255);
+}
+.box3 .box4{
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255, 0, 119);
+}
